@@ -1,3 +1,4 @@
-.4-CNN/data/*
+*/data
+.4-CNN/data
 .4-CNN/data/organizer.py
 
