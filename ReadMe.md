@@ -28,7 +28,7 @@ A regression analysis notebook on NYC Airbnb Data
 
 **Status:** ![](https://geps.dev/progress/60)
 
----
+***
 
 2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb): 
    
