@@ -24,27 +24,27 @@ Not all topics are directly related to the Tensorflow Developer Certificate Exam
 
 1) [NYC Airbnb Data Analysis](1-Regression/AirbnbEDA.ipynb) ![](https://geps.dev/progress/60): 
    
-A regression analysis notebook on NYC Airbnb Data
+        A regression analysis notebook on NYC Airbnb Data
    
 2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb) ![](https://geps.dev/progress/70): 
    
-A supervised classification project for Taiwan company bankruptcy cases with an imbalanced dataset and 96 input features.
+        A supervised classification project for Taiwan company bankruptcy cases with an imbalanced dataset and 96 input features.
    
 3) [Customer Personality Analysis for Marketing Campaign](2-Classification/CustomerPersonalityAnalysis/CustomerAnalysis.ipynb) ![](https://geps.dev/progress/70):
 
-An unsupervised classification project for evaluating marketing campaigns and customer characteristics by segments.
+        An unsupervised classification project for evaluating marketing campaigns and customer characteristics by segments.
 
 4) [Financial News Sentiment Analysis](3-NLP/FinancialNewsNLP.ipynb) ![](https://geps.dev/progress/80):
 
-Sentiment analysis on a financial news database with pretrained models such as BERT and finBERT.
+        Sentiment analysis on a financial news database with pretrained models such as BERT and finBERT.
 
 5) [Brain MRI Tumor Prediction](4-CNN/BrainTumourPrediction.ipynb)![](https://geps.dev/progress/30):
 
-Brain tumour prediction from MRI images with varying quality and sources using CNN and pre-trained models. 
+        Brain tumour prediction from MRI images with varying quality and sources using CNN and pre-trained models. 
 
 6) [Numenta Anomaly Benchmark](5-TimeSeries/NumentaAnomalyBenchmark.ipynb) ![](https://geps.dev/progress/99):
 
-Time-series data anomaly detection on Tweets mentioning selected stock tickers and comparison of anomaly detection methods.
+        Time-series data anomaly detection on Tweets mentioning selected stock tickers and comparison of anomaly detection methods.
 
 
 ## Contact:
