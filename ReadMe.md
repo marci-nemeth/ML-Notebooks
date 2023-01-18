@@ -22,8 +22,9 @@ Not all topics are directly related to the Tensorflow Developer Certificate Exam
 
 ## Notebooks by Topics:
 
-1) [NYC Airbnb Data Analysis](1-Regression/AirbnbEDA.ipynb)
+1) [NYC Airbnb Data Analysis](1-Regression/AirbnbEDA.ipynb) ![](https://geps.dev/progress/60)
 2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb)
 3) [Customer Personality Analysis for Marketing Campaign](2-Classification/CustomerPersonalityAnalysis/CustomerAnalysis.ipynb)
 4) [Financial News Sentiment Analysis](3-NLP/FinancialNewsNLP.ipynb)
 5) [Brain MRI Tumor Prediction](4-CNN/BrainTumourPrediction.ipynb)
+6) [Numenta Anomaly Benchmark](5-TimeSeries/NumentaAnomalyBenchmark.ipynb)
