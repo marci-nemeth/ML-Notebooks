@@ -22,29 +22,45 @@ Not all topics are directly related to the Tensorflow Developer Certificate Exam
 
 ## Notebooks by Topics:
 
-1) [NYC Airbnb Data Analysis](1-Regression/AirbnbEDA.ipynb) ![](https://geps.dev/progress/60): 
+1) [NYC Airbnb Data Analysis](1-Regression/AirbnbEDA.ipynb): 
    
-        A regression analysis notebook on NYC Airbnb Data
+A regression analysis notebook on NYC Airbnb Data
+
+**Status:** ![](https://geps.dev/progress/60)
+
+
+2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb): 
    
-2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb) ![](https://geps.dev/progress/70): 
-   
-        A supervised classification project for Taiwan company bankruptcy cases with an imbalanced dataset and 96 input features.
-   
-3) [Customer Personality Analysis for Marketing Campaign](2-Classification/CustomerPersonalityAnalysis/CustomerAnalysis.ipynb) ![](https://geps.dev/progress/70):
+A supervised classification project for Taiwan company bankruptcy cases with an imbalanced dataset and 96 input features.
 
-        An unsupervised classification project for evaluating marketing campaigns and customer characteristics by segments.
+**Status:** ![](https://geps.dev/progress/70)
 
-4) [Financial News Sentiment Analysis](3-NLP/FinancialNewsNLP.ipynb) ![](https://geps.dev/progress/80):
 
-        Sentiment analysis on a financial news database with pretrained models such as BERT and finBERT.
+3) [Customer Personality Analysis for Marketing Campaign](2-Classification/CustomerPersonalityAnalysis/CustomerAnalysis.ipynb):
 
-5) [Brain MRI Tumor Prediction](4-CNN/BrainTumourPrediction.ipynb)![](https://geps.dev/progress/30):
+An unsupervised classification project for evaluating marketing campaigns and customer characteristics by segments.
 
-        Brain tumour prediction from MRI images with varying quality and sources using CNN and pre-trained models. 
+**Status:** ![](https://geps.dev/progress/60)
 
-6) [Numenta Anomaly Benchmark](5-TimeSeries/NumentaAnomalyBenchmark.ipynb) ![](https://geps.dev/progress/99):
 
-        Time-series data anomaly detection on Tweets mentioning selected stock tickers and comparison of anomaly detection methods.
+4) [Financial News Sentiment Analysis](3-NLP/FinancialNewsNLP.ipynb):
+
+Sentiment analysis on a financial news database with pretrained models such as BERT and finBERT.
+
+**Status:** ![](https://geps.dev/progress/80)
+
+5) [Brain MRI Tumor Prediction](4-CNN/BrainTumourPrediction.ipynb):
+
+Brain tumour prediction from MRI images with varying quality and sources using CNN and pre-trained models. 
+
+**Status:** ![](https://geps.dev/progress/30)
+
+
+1) [Numenta Anomaly Benchmark](5-TimeSeries/NumentaAnomalyBenchmark.ipynb) :
+
+Time-series data anomaly detection on Tweets mentioning selected stock tickers and comparison of anomaly detection methods.
+
+**Status:** ![](https://geps.dev/progress/99)
 
 
 ## Contact:
