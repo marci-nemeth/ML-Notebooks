@@ -23,8 +23,25 @@ Not all topics are directly related to the Tensorflow Developer Certificate Exam
 ## Notebooks by Topics:
 
 1) [NYC Airbnb Data Analysis](1-Regression/AirbnbEDA.ipynb) ![](https://geps.dev/progress/60)
-2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb)
-3) [Customer Personality Analysis for Marketing Campaign](2-Classification/CustomerPersonalityAnalysis/CustomerAnalysis.ipynb)
-4) [Financial News Sentiment Analysis](3-NLP/FinancialNewsNLP.ipynb)
-5) [Brain MRI Tumor Prediction](4-CNN/BrainTumourPrediction.ipynb)
-6) [Numenta Anomaly Benchmark](5-TimeSeries/NumentaAnomalyBenchmark.ipynb)
+2) [Company Bankruptcy Predictions on the Taiwan Stock Exchange (TWSE)](2-Classification/CompanyBankruptcyPrediction/BankruptcyPred.ipynb) ![](https://geps.dev/progress/70)
+3) [Customer Personality Analysis for Marketing Campaign](2-Classification/CustomerPersonalityAnalysis/CustomerAnalysis.ipynb) ![](https://geps.dev/progress/70)
+4) [Financial News Sentiment Analysis](3-NLP/FinancialNewsNLP.ipynb) ![](https://geps.dev/progress/80)
+5) [Brain MRI Tumor Prediction](4-CNN/BrainTumourPrediction.ipynb)![](https://geps.dev/progress/30)
+6) [Numenta Anomaly Benchmark](5-TimeSeries/NumentaAnomalyBenchmark.ipynb) ![](https://geps.dev/progress/99)
+
+#### Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-nemeth/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marci-nemeth)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/marcellnmeth)
+
+
+#### Packages used:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+#### To-Do
